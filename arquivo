@@ -1,0 +1,11 @@
+Números com vírgula
+10,94
+120,32
+410,12
+	21,35
+Números com ponto
+100.10
+99.99
+Números inválidos
+510,23
+100.201
